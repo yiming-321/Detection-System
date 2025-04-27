@@ -1,0 +1,17 @@
+train: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/train/images
+train1: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/train/images1
+train2: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/train/images2
+train3: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/train/images3
+train4: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/train/images4
+val: /home/rl/wyh/ultralytics-main/ultralytics/myyolo/datasets/512_new8_2/valid/images
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+
+
+# train: /home/fn/902wl/wyh/ultralytics/ultralytics/myyolo/datasets/512_total_8_2/train/images
+# val: /home/fn/902wl/wyh/ultralytics/ultralytics/myyolo/datasets/512_total_8_2/valid/images
+# #val: /home/fn/902wl/wyh/ultralytics/ultralytics/neudet/train/images
+# nc: 6
+# names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+
+

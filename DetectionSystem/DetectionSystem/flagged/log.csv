@@ -1,0 +1,4 @@
+inp,output,flag,username,timestamp
+flagged\inp\e9bc5c1294fc41b6a4e3\lion.jpg,"{""label"": ""lion"", ""confidences"": [{""label"": ""lion"", ""confidence"": 0.9962970614433289}, {""label"": ""cougar"", ""confidence"": 0.0010327361524105072}, {""label"": ""lynx"", ""confidence"": 0.0010051759891211987}]}",,,2024-09-29 16:30:18.410700
+flagged\inp\369d217ccd99da1950b9\cheetah.jpg,"{""label"": ""cheetah"", ""confidences"": [{""label"": ""cheetah"", ""confidence"": 0.14784224331378937}, {""label"": ""dowitcher"", ""confidence"": 0.0973314568400383}, {""label"": ""African crocodile"", ""confidence"": 0.06781274825334549}]}",,,2024-12-17 16:08:08.897975
+flagged\inp\388fbd755c8808f059ac\cheetah.jpg,"{""label"": ""cheetah"", ""confidences"": [{""label"": ""cheetah"", ""confidence"": 0.14784224331378937}, {""label"": ""dowitcher"", ""confidence"": 0.0973314568400383}, {""label"": ""African crocodile"", ""confidence"": 0.06781274825334549}]}",,,2024-12-17 16:08:10.799658
